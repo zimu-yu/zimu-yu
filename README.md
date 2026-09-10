@@ -22,7 +22,7 @@ A structure- and epistasis-aware framework that constructs a reusable mutation a
 A low-N framework for predicting higher-order mutation combinations and modeling arbitrary-order epistasis from sparse experimental measurements.
 
 *Under review at Nature Microbiology*  
-[Code]
+[Code](https://github.com/xulab-research/MetaAI-research)
 
 ### RADAR
 **RADAR enables marker-free fine-grained discovery of anomalous cells in multi-sample and multimodal single-cell omics**
@@ -30,7 +30,7 @@ A low-N framework for predicting higher-order mutation combinations and modeling
 A unified framework for marker-free anomalous-cell detection, cross-sample alignment, and fine-grained resolution across multiple single-cell modalities.
 
 *Co-first author · Under review at Bioinformatics*  
-[Code]
+[Code](https://github.com/Catchxu/RADAR)
 
 ### CAPE
 **Causality-Induced Positional Encoding for Transformer-Based Representation Learning of Non-Sequential Features**
