@@ -42,4 +42,4 @@ Causality-aware positional encoding for extending Transformers to non-sequential
 
 ## Contact
 
-[ORCID](https://orcid.org/0009-0000-1906-036X) · [Email](mailto:202121060202@stu.zuel.edu.cn)
+[ORCID](https://orcid.org/0009-0000-1906-036X) · [Google Scholar](https://scholar.google.com/citations?user=flDQAnMAAAAJ) · [Email](mailto:202121060202@stu.zuel.edu.cn)
