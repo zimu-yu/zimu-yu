@@ -14,7 +14,7 @@ Research Assistant at **Tsinghua University**, **Zhongnan University of Economic
 A structure- and epistasis-aware framework that constructs a reusable mutation atlas from a single wild-type protein encoding for arbitrary-order multi-mutant fitness prediction.
 
 *Co-first author · Under review at Nature Machine Intelligence*  
-[Preprint] · [Code]
+[Preprint] · [Code](https://github.com/Gonglab-THU/Cerebra-Epistasis)
 
 ### MetaAI
 **Deciphering the cellular sequence–metabolite synthetic landscape enables predictive design by MetaAI**
