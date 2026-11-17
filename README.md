@@ -10,4 +10,4 @@ I am currently looking for **PhD opportunities** in computational biology, machi
 
 More about my work can be found on my [homepage](https://zimu-yu.github.io/).
 
-📫 You can reach me at [202121060202@stu.zuel.edu.cn](mailto:202121060202@stu.zuel.edu.cn).
+📫 You can reach me at [yuzimu240@gmail.com](mailto:yuzimu240@gmail.com).
